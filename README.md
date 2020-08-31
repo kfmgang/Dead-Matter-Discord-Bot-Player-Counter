@@ -15,4 +15,4 @@ A discord bot for displaying the number of online players on your Dead Matter De
 6. Run the bot using `python bot.py` and voila.
 
 <p>pro tip: create a separate role for your bot with the "Display role members separately from online members"</p>
-<p>pro tip2: Invite your bot to your Discord server [tuto here](https://discordpy.readthedocs.io/en/latest/discord.html)</p>
+<p>pro tip2: Invite your bot to your Discord server <a href=https://discordpy.readthedocs.io/en/latest/discord.html>Here</a></p>
