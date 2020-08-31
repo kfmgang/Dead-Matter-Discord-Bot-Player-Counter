@@ -12,7 +12,7 @@ A discord bot for displaying the number of online players on your Dead Matter De
 3. Open config.py (with your preferred text editor) then fill in the required spots, such as token and your Dead Matter server address.
 4. Enter the Bot directory `cd Dead-Matter-Discord-Bot-Player-Counter`.
 5. Install the necessary packages with `pip install -r requirements.txt`.
-6. Run the bot using `python bot.py` and voila.
+6. Run the bot using `python bot.py` and voila !!!
 
 <p>pro tip: create a separate role for your bot with the "Display role members separately from online members"</p>
 <p>pro tip2: Invite your bot to your Discord server <a href=https://discordpy.readthedocs.io/en/latest/discord.html>Here</a></p>
