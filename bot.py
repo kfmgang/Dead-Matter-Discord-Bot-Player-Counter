@@ -19,6 +19,6 @@ async def update_player_count():
     except socket.timeout as error:
         await client.change_presence(activity=discord.Game(name=f"Server is off"))
     else:
-        await client.change_presence(activity=discord.Game(name=f"{Player}/{MaxPlayers} Players Connected"))
+        await client.change_presence(activity=discord.Game(name=f"{Player}/{MaxPlayers} Players Online"))
 
 client.run(config.BOT_TOKEN)
