@@ -1,0 +1,3 @@
+discord.py==1.4.1
+python_a2s==1.2.0
+discord==1.0.1
